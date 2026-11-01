@@ -35,6 +35,7 @@
 #       keys ('ConnectedOfficeExperiencesPreference', etc.) for suite and apps.
 #     - Replaced 'set -euo pipefail' with 'set -Eeuo pipefail' and added an
 #       EXIT trap handler for clean, predictable termination and error logging.
+# noted
 #     - Improved logging outputs with consistent, colored tags.
 # ==============================================================================
 
