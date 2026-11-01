@@ -1,4 +1,4 @@
-# 🖥️ Installer for Microsoft Office for macOS
+# 🖥️ Installer for Microsoft Office for macOS.
 
 ## Microsoft Office for macOS
 
